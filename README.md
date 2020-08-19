@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Welcome! This is Hanrui, PhD student at MIT.
+
+[![Hanrui Wang's github stats](https://github-readme-stats.vercel.app/api?username=hanrui-wang&count_private=true&hide=stars&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Hanrui-Wang/hanrui-wang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
