@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome! This is Hanrui, PhD student at MIT.
+Welcome! This is Hanrui, incoming Assistant Professor at UCLA CS. I received my PhD from MIT EECS.
 
 [![Hanrui Wang's github stats](https://github-readme-stats.vercel.app/api?username=hanrui-wang&count_private=true&hide=stars&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 
